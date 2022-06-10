@@ -5,3 +5,4 @@
 *.txt linguist-detectable=false
 *.cmake linguist-detectable=false
 *.h linguist-detectable=true
+*.html linguist-detectable=true
